@@ -40,7 +40,7 @@ This evolution is captured through the `collected_at` field, which tracks when e
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/elite301/grid.git
    cd Grid
    ```
 
